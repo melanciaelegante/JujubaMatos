@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melanciaelegante
-- 👀 I’m interested in microcontrollers, web-development, eletronics, mobile apps and industrial modeling software
-- 🌱 I'm currently studying industrial engineering at the Federal University of Sergipe
+- 👀 I’m interested in microcontrollers, eletronics, industrial modeling softwares and digital solutions to support manufacturing
+- 🌱 I'm currently studying Engenharia de Produção at the Universidade Federal de Sergipe
 - 💞️ I’m looking to collaborate on personal projects
 - 📫 Reach me for here, or joaomatos.contato@gmail.com
 - 🖥️ My favorites languages is C, C++, Python
